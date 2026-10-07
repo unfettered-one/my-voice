@@ -1,6 +1,6 @@
 """Packaging (skeleton, deps only)."""
 
-from setuptools import find_packages, setup # type: ignore
+from setuptools import find_packages, setup  # type: ignore  # pylint: disable=import-error
 
 setup(
     name="my-voice",
