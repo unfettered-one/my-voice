@@ -1,0 +1,4 @@
+# Default backend (overridable via --backend)
+backend: chatterbox-turbo
+voices_dir: voices
+out_dir: out

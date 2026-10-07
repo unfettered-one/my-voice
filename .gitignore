@@ -1,0 +1,7 @@
+.venv
+__pycache__/
+out/
+*.wav
+*.pt
+*.egg-info/
+my_voice.egg-info/
